@@ -10,15 +10,8 @@
 
 ## Linux ##
 
-## Architecture ##
-
 ## Security ##
 
 ## JavaScript ##
 
-## CSS ##
-
-
-
-
-
+## HTML+CSS ##
