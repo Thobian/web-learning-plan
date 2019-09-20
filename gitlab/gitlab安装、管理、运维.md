@@ -104,7 +104,7 @@ $ gitlab-runner register             # 运行注册程序
 
 一路下来，基本不会碰到什么问题。但万万没想到，你这时候去 gitlab 执行pipeline，还是会报错。错误如下：
 
-![1567925722573](C:\Users\thobian\AppData\Roaming\Typora\typora-user-images\1567925722573.png)
+![1567925722573](https://static.jiebianjia.com/typora/0d5c52fff08d87d4d842e650e2b528ad.png)
 
 看出来了没 还在报： `Could not resolve host：gitlab.example.com` 
 
@@ -135,7 +135,7 @@ $ gitlab-runner register             # 运行注册程序
     [runners.cache.gcs]
 ```
 
-
+对于加深runner、pipeline的理解，推荐这个文章：https://scarletsky.github.io/2016/07/29/use-gitlab-ci-for-continuous-integration/
 
 ### 感悟总结
 
