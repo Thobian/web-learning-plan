@@ -137,6 +137,8 @@ $ gitlab-runner register             # 运行注册程序
 
 对于加深runner、pipeline的理解，推荐这个文章：https://scarletsky.github.io/2016/07/29/use-gitlab-ci-for-continuous-integration/
 
+关于runner `tag` 的介绍：https://www.jianshu.com/p/30e3f2940078
+
 ### 感悟总结
 
 资料看再多，不如直接上手操作一遍。自己过一遍，很多之前理解不到位的东西自己跑一遍、实验一下就理解了。
