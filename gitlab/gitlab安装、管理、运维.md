@@ -139,6 +139,8 @@ $ gitlab-runner register             # 运行注册程序
 
 关于runner `tag` 的介绍：https://www.jianshu.com/p/30e3f2940078
 
+gitlab重置用户密码（包括root）：https://blog.csdn.net/yin138/article/details/51394868
+
 ### 感悟总结
 
 资料看再多，不如直接上手操作一遍。自己过一遍，很多之前理解不到位的东西自己跑一遍、实验一下就理解了。
