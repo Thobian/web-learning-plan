@@ -48,15 +48,15 @@ xdebug.remote_connect_back=0     # 多机开发但在同一台测试机上测试
 
 ### 第三步、PHPstorm设置
 
-**一、**设置PHPstorm监听的端口，必须跟 php.ini 中 `xdebug.remote_port` 的值保持一样。
+一、设置PHPstorm监听的端口，必须跟 php.ini 中 `xdebug.remote_port` 的值保持一样。
 
 ![PHPstorm debug port](https://raw.githubusercontent.com/Thobian/typora-image/master/demo/202007/01/131834-331167.png)
 
-**二、**打开PHPstorm xdebug监听模式。
+二、打开PHPstorm xdebug监听模式。
 
 ![打开监听模式](https://raw.githubusercontent.com/Thobian/typora-image/master/demo/202007/01/131848-15378.png)
 
-**三、**配置到这一步，你就可以在浏览器去访问你的站点了。这时你的PHPstorm将弹出类似如下提示框，让你确认是否要接收这个调试请求 **Accept** 就好。然后就可以对你的项目愉快的进行断点调试了。
+三、配置到这一步，你就可以在浏览器去访问你的站点了。这时你的PHPstorm将弹出类似如下提示框，让你确认是否要接收这个调试请求 **Accept** 就好。然后就可以对你的项目愉快的进行断点调试了。
 
 ![确认接受调试](https://raw.githubusercontent.com/Thobian/typora-image/master/demo/202007/01/131846-708770.png)
 
